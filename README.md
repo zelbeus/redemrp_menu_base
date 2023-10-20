@@ -10,12 +10,6 @@ qadr version has changed CSS, image compatibility, and add nui focus control.
 
 **This resource has been adopted for use by the RedEMRP Framework "reboot" of 2022.**
 
-## 1. Installation
-- Be sure you have RedEM:RP Installed
-if not -> [RedEM:RP](https://github.com/RedEM-RP/redem_roleplay)
-- Clone redemrp_menu_base into [redemrp] folder
-- add ```ensure redemrp_menu_base``` after ```ensure redem_roleplay```
-
 image : 
 
 ![alt text](https://media.discordapp.net/attachments/861745255254982676/913365211120029736/unknown.png)
